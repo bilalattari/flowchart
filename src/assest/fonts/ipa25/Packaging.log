@@ -1,0 +1,858 @@
+2022-01-25 13:55:03 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f85c8ff5b40; archive(resolved)="<IDEArchive: 0x7f85d52bb000>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f85c8ff5b40; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7f85c88db040; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c8ab7ee0; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c816a910; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85f172f060; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c88ae090; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c946b800; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c92f7a90; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c82abd40; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c82f1310; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c8a70e70; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c8acbab0; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c8bf7a60; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f85d82b9490; teamID='9QYW2K7B2X', teamName='Cram Cards, LLC', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c8e6ce30; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="(null)">
+	<IDEDistributionContext: 0x7f85c8280ba0; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7f85f153ddb0>", team="(null)">
+	<IDEDistributionContext: 0x7f85c8f8a960; archive = "<IDEArchive: 0x7f85d52bb000>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7f85c8ff5b40>
+2022-01-25 13:55:03 +0000  Processing step: IDEDistributionCreateDestRootStep
+2022-01-25 13:55:03 +0000  Processing step: IDEDistributionCopyItemStep
+2022-01-25 13:55:03 +0000  Running /usr/bin/ditto '-V' '/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app'
+2022-01-25 13:55:03 +0000  >>> Copying /Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app 
+2022-01-25 13:55:03 +0000  copying file ./_CodeSignature/CodeResources ... 
+2022-01-25 13:55:03 +0000  14246 bytes for ./_CodeSignature/CodeResources
+2022-01-25 13:55:03 +0000  copying file ./Fontisto.ttf ... 
+2022-01-25 13:55:03 +0000  313528 bytes for ./Fontisto.ttf
+copying file ./Octicons.ttf ... 
+2022-01-25 13:55:03 +0000  28364 bytes for ./Octicons.ttf
+copying file ./Feather.ttf ... 
+2022-01-25 13:55:03 +0000  56024 bytes for ./Feather.ttf
+copying file ./flowchart ... 
+2022-01-25 13:55:03 +0000  22914320 bytes for ./flowchart
+copying file ./Entypo.ttf ... 
+2022-01-25 13:55:03 +0000  65584 bytes for ./Entypo.ttf
+2022-01-25 13:55:03 +0000  copying file ./FontAwesome5_Brands.ttf ... 
+2022-01-25 13:55:03 +0000  132728 bytes for ./FontAwesome5_Brands.ttf
+2022-01-25 13:55:03 +0000  copying file ./MaterialCommunityIcons.ttf ... 
+2022-01-25 13:55:03 +0000  899432 bytes for ./MaterialCommunityIcons.ttf
+2022-01-25 13:55:03 +0000  copying file ./AppIcon60x60@2x.png ... 
+2022-01-25 13:55:03 +0000  15540 bytes for ./AppIcon60x60@2x.png
+copying file ./AntDesign.ttf ... 
+2022-01-25 13:55:03 +0000  70344 bytes for ./AntDesign.ttf
+2022-01-25 13:55:03 +0000  copying file ./Foundation.ttf ... 
+2022-01-25 13:55:03 +0000  56976 bytes for ./Foundation.ttf
+copying file ./Ionicons.ttf ... 
+2022-01-25 13:55:03 +0000  247192 bytes for ./Ionicons.ttf
+copying file ./FontAwesome5_Solid.ttf ... 
+2022-01-25 13:55:03 +0000  202616 bytes for ./FontAwesome5_Solid.ttf
+copying file ./FontAwesome5_Regular.ttf ... 
+2022-01-25 13:55:03 +0000  34092 bytes for ./FontAwesome5_Regular.ttf
+2022-01-25 13:55:03 +0000  copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2022-01-25 13:55:03 +0000  518 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+2022-01-25 13:55:03 +0000  copying file ./AccessibilityResources.bundle/Info.plist ... 
+2022-01-25 13:55:03 +0000  795 bytes for ./AccessibilityResources.bundle/Info.plist
+2022-01-25 13:55:03 +0000  copying file ./FontAwesome.ttf ... 
+2022-01-25 13:55:03 +0000  165548 bytes for ./FontAwesome.ttf
+2022-01-25 13:55:03 +0000  copying file ./Zocial.ttf ... 
+2022-01-25 13:55:03 +0000  25552 bytes for ./Zocial.ttf
+2022-01-25 13:55:03 +0000  copying file ./Assets.car ... 
+2022-01-25 13:55:03 +0000  800824 bytes for ./Assets.car
+2022-01-25 13:55:03 +0000  copying file ./Montserrat-SemiBold.ttf ... 
+2022-01-25 13:55:03 +0000  198720 bytes for ./Montserrat-SemiBold.ttf
+copying file ./EvilIcons.ttf ... 
+2022-01-25 13:55:03 +0000  13456 bytes for ./EvilIcons.ttf
+2022-01-25 13:55:03 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2022-01-25 13:55:03 +0000  24110 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./main.jsbundle ... 
+2022-01-25 13:55:03 +0000  1318217 bytes for ./main.jsbundle
+2022-01-25 13:55:03 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2022-01-25 13:55:03 +0000  466576 bytes for ./Frameworks/libswiftCoreImage.dylib
+2022-01-25 13:55:03 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2022-01-25 13:55:03 +0000  679680 bytes for ./Frameworks/libswiftObjectiveC.dylib
+copying file ./Frameworks/libswiftCore.dylib ... 
+2022-01-25 13:55:03 +0000  95497584 bytes for ./Frameworks/libswiftCore.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2022-01-25 13:55:03 +0000  2041040 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+2022-01-25 13:55:03 +0000  copying file ./Frameworks/OpenSSL.framework/_CodeSignature/CodeResources ... 
+2022-01-25 13:55:03 +0000  1798 bytes for ./Frameworks/OpenSSL.framework/_CodeSignature/CodeResources
+2022-01-25 13:55:03 +0000  copying file ./Frameworks/OpenSSL.framework/OpenSSL ... 
+2022-01-25 13:55:03 +0000  10657632 bytes for ./Frameworks/OpenSSL.framework/OpenSSL
+2022-01-25 13:55:03 +0000  copying file ./Frameworks/OpenSSL.framework/Info.plist ... 
+716 bytes for ./Frameworks/OpenSSL.framework/Info.plist
+2022-01-25 13:55:03 +0000  copying file ./Frameworks/libswiftUIKit.dylib ... 
+2022-01-25 13:55:03 +0000  1608800 bytes for ./Frameworks/libswiftUIKit.dylib
+2022-01-25 13:55:03 +0000  copying file ./Frameworks/libswiftMetal.dylib ... 
+2022-01-25 13:55:03 +0000  724416 bytes for ./Frameworks/libswiftMetal.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+2022-01-25 13:55:03 +0000  4056912 bytes for ./Frameworks/libswiftDispatch.dylib
+copying file ./Frameworks/libswiftos.dylib ... 
+2022-01-25 13:55:03 +0000  857184 bytes for ./Frameworks/libswiftos.dylib
+2022-01-25 13:55:03 +0000  copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2022-01-25 13:55:03 +0000  450384 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+2022-01-25 13:55:03 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2022-01-25 13:55:03 +0000  1091440 bytes for ./Frameworks/libswiftDarwin.dylib
+copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2022-01-25 13:55:03 +0000  486352 bytes for ./Frameworks/libswiftQuartzCore.dylib
+2022-01-25 13:55:03 +0000  copying file ./Frameworks/libswiftFoundation.dylib ... 
+2022-01-25 13:55:03 +0000  43094320 bytes for ./Frameworks/libswiftFoundation.dylib
+2022-01-25 13:55:03 +0000  copying file ./SimpleLineIcons.ttf ... 
+2022-01-25 13:55:03 +0000  54056 bytes for ./SimpleLineIcons.ttf
+copying file ./embedded.mobileprovision ... 
+2022-01-25 13:55:03 +0000  11875 bytes for ./embedded.mobileprovision
+2022-01-25 13:55:03 +0000  copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png ... 
+2022-01-25 13:55:03 +0000  761 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png
+copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png ... 
+2022-01-25 13:55:03 +0000  405 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png
+copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon.png ... 
+2022-01-25 13:55:03 +0000  290 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon.png
+2022-01-25 13:55:03 +0000  copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png ... 
+2022-01-25 13:55:03 +0000  913 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png
+2022-01-25 13:55:03 +0000  copying file ./assets/src/assest/Responses.mp4 ... 
+2022-01-25 13:55:03 +0000  146889 bytes for ./assets/src/assest/Responses.mp4
+copying file ./assets/src/assest/answers.mp4 ... 
+2022-01-25 13:55:03 +0000  381490 bytes for ./assets/src/assest/answers.mp4
+copying file ./assets/src/assest/Boxes.mp4 ... 
+2022-01-25 13:55:03 +0000  427497 bytes for ./assets/src/assest/Boxes.mp4
+copying file ./assets/src/assest/Paths.mp4 ... 
+2022-01-25 13:55:03 +0000  600488 bytes for ./assets/src/assest/Paths.mp4
+2022-01-25 13:55:03 +0000  copying file ./assets/src/assest/Survey.mp4 ... 
+2022-01-25 13:55:03 +0000  306356 bytes for ./assets/src/assest/Survey.mp4
+2022-01-25 13:55:03 +0000  copying file ./assets/src/assest/1.png ... 
+2022-01-25 13:55:03 +0000  288197 bytes for ./assets/src/assest/1.png
+copying file ./assets/src/assest/Website.mp4 ... 
+2022-01-25 13:55:03 +0000  527094 bytes for ./assets/src/assest/Website.mp4
+2022-01-25 13:55:03 +0000  copying file ./Info.plist ... 
+2022-01-25 13:55:03 +0000  1793 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2022-01-25 13:55:03 +0000  8 bytes for ./PkgInfo
+copying file ./MaterialIcons.ttf ... 
+2022-01-25 13:55:03 +0000  230384 bytes for ./MaterialIcons.ttf
+2022-01-25 13:55:03 +0000  /usr/bin/ditto exited with 0
+2022-01-25 13:55:03 +0000  Processing step: IDEDistributionEmbedProfileStep
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c8c13b80; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7f85dc66d540:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c941a790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7f85c8223a90:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c94ebcf0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f85c9417a30:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c820a6a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f85c9417a30:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c8cc1380; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f85f050b5f0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c92ffca0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f85f050b5f0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c900d9e0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f85c902a070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c44bc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c88e04d0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f85c902a070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c94071a0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7f85c7bd7db0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c4b750; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7f85c7bd7db0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c829bcf0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f85f05db150:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c9256990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f85f05db150:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c88e0630; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f85f1e5d690:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c139f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f85f1e5d690:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c8caaba0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f85f052c700:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85f22943f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f85f052c700:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c8c9c320; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7f85c901a480:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c92684f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7f85c901a480:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c9411670; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f85c886bb00:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c94087e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f85c886bb00:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c9409c30; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7f85f05800c0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c9409980; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7f85f05800c0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c7bdc110; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7f85c90063a0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c84cfa10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7f85c90063a0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f85c8cae690; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7f85da5f7070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8ca6860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7f85da5f7070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:03 +0000  Processing step: IDEDistributionInfoPlistStep
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCore.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDarwin.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDispatch.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftFoundation.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftMetal.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftUIKit.dylib".
+2022-01-25 13:55:03 +0000  No Info.plist file URL found for item at path "/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftos.dylib".
+2022-01-25 13:55:03 +0000  Processing step: IDEDistributionItemRemovalStep
+2022-01-25 13:55:03 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2022-01-25 13:55:03 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2022-01-25 13:55:03 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2022-01-25 13:55:03 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2022-01-25 13:55:03 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2022-01-25 13:55:03 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/OpenSSL.framework/OpenSSL' '-l' '-keep_cs' '-o' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/OpenSSL.framework/OpenSSL'
+2022-01-25 13:55:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-01-25 13:55:03 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/flowchart' '-l' '-keep_cs' '-o' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/flowchart'
+2022-01-25 13:55:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-01-25 13:55:03 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2022-01-25 13:55:03 +0000  The archive did not contain /Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/BCSymbolMaps/F8B1B40E-0301-3F0D-A724-8BA55DB574D2.bcsymbolmap as expected.
+2022-01-25 13:55:03 +0000  Running /usr/bin/ditto '-V' '/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/BCSymbolMaps/711ECD69-30A2-3BCB-9DCF-C982AECC2F36.bcsymbolmap' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/BCSymbolMaps/711ECD69-30A2-3BCB-9DCF-C982AECC2F36.bcsymbolmap'
+2022-01-25 13:55:03 +0000  >>> Copying /Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/BCSymbolMaps/711ECD69-30A2-3BCB-9DCF-C982AECC2F36.bcsymbolmap 
+2022-01-25 13:55:03 +0000  copying file ./711ECD69-30A2-3BCB-9DCF-C982AECC2F36.bcsymbolmap ... 
+2022-01-25 13:55:03 +0000  1814809 bytes for ./711ECD69-30A2-3BCB-9DCF-C982AECC2F36.bcsymbolmap
+2022-01-25 13:55:03 +0000  /usr/bin/ditto exited with 0
+2022-01-25 13:55:03 +0000  Processing step: IDEDistributionSymbolsStep
+2022-01-25 13:55:04 +0000  Excluding symbols for OpenSSL.framework
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftCore.dylib
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftCoreFoundation.dylib
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftCoreGraphics.dylib
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftCoreImage.dylib
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftDarwin.dylib
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftDispatch.dylib
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftFoundation.dylib
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftMetal.dylib
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftObjectiveC.dylib
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftQuartzCore.dylib
+2022-01-25 13:55:04 +0000  Excluding symbols for libswiftUIKit.dylib
+2022-01-25 13:55:05 +0000  Excluding symbols for libswiftos.dylib
+2022-01-25 13:55:05 +0000  Excluding symbols for flowchart.app
+2022-01-25 13:55:05 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2022-01-25 13:55:05 +0000  Running /usr/bin/ditto '-V' '/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/SwiftSupport' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/SwiftSupport'
+2022-01-25 13:55:05 +0000  >>> Copying /Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/SwiftSupport 
+2022-01-25 13:55:05 +0000  copying file ./iphoneos/libswiftCoreImage.dylib ... 
+2022-01-25 13:55:05 +0000  534085 bytes for ./iphoneos/libswiftCoreImage.dylib
+2022-01-25 13:55:05 +0000  copying file ./iphoneos/libswiftObjectiveC.dylib ... 
+2022-01-25 13:55:05 +0000  853774 bytes for ./iphoneos/libswiftObjectiveC.dylib
+2022-01-25 13:55:05 +0000  copying file ./iphoneos/libswiftCore.dylib ... 
+2022-01-25 13:55:05 +0000  140528730 bytes for ./iphoneos/libswiftCore.dylib
+copying file ./iphoneos/libswiftCoreGraphics.dylib ... 
+2022-01-25 13:55:05 +0000  2727566 bytes for ./iphoneos/libswiftCoreGraphics.dylib
+2022-01-25 13:55:05 +0000  copying file ./iphoneos/libswiftUIKit.dylib ... 
+2022-01-25 13:55:05 +0000  2211816 bytes for ./iphoneos/libswiftUIKit.dylib
+2022-01-25 13:55:05 +0000  copying file ./iphoneos/libswiftMetal.dylib ... 
+2022-01-25 13:55:05 +0000  897384 bytes for ./iphoneos/libswiftMetal.dylib
+2022-01-25 13:55:05 +0000  copying file ./iphoneos/libswiftDispatch.dylib ... 
+2022-01-25 13:55:05 +0000  5501554 bytes for ./iphoneos/libswiftDispatch.dylib
+copying file ./iphoneos/libswiftos.dylib ... 
+2022-01-25 13:55:05 +0000  1136939 bytes for ./iphoneos/libswiftos.dylib
+2022-01-25 13:55:05 +0000  copying file ./iphoneos/libswiftCoreFoundation.dylib ... 
+2022-01-25 13:55:05 +0000  503807 bytes for ./iphoneos/libswiftCoreFoundation.dylib
+2022-01-25 13:55:05 +0000  copying file ./iphoneos/libswiftDarwin.dylib ... 
+2022-01-25 13:55:05 +0000  1412501 bytes for ./iphoneos/libswiftDarwin.dylib
+2022-01-25 13:55:05 +0000  copying file ./iphoneos/libswiftQuartzCore.dylib ... 
+2022-01-25 13:55:05 +0000  580261 bytes for ./iphoneos/libswiftQuartzCore.dylib
+2022-01-25 13:55:05 +0000  copying file ./iphoneos/libswiftFoundation.dylib ... 
+2022-01-25 13:55:05 +0000  62290500 bytes for ./iphoneos/libswiftFoundation.dylib
+2022-01-25 13:55:05 +0000  /usr/bin/ditto exited with 0
+2022-01-25 13:55:05 +0000  Processing step: IDEDistributionAppThinningStep
+2022-01-25 13:55:05 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2022-01-25 13:55:05 +0000  Processing step: IDEDistributionArchThinningStep
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/OpenSSL.framework/OpenSSL' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-01-25 13:55:05 +0000  Skipping architecture thinning for item "OpenSSL" because arch "arm64e" wasn't found
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCore.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftCoreImage.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDarwin.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDispatch.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftFoundation.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftMetal.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftMetal.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftMetal.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftQuartzCore.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftUIKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftUIKit.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftUIKit.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftos.dylib' '-remove' 'arm64e' '-output' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftos.dylib'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 13:55:05 +0000  Successfully thinned item "libswiftos.dylib", arch "arm64e"
+2022-01-25 13:55:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/flowchart' '-verify_arch' 'arm64e'
+2022-01-25 13:55:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-01-25 13:55:05 +0000  Skipping architecture thinning for item "flowchart" because arch "arm64e" wasn't found
+2022-01-25 13:55:05 +0000  Processing step: IDEDistributionODRStep
+2022-01-25 13:55:05 +0000  Processing step: IDEDistributionStripXattrsStep
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c8c13b80; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7f85dc66d540:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c941a790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9033ea0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7f85c8223a90:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c94ebcf0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f85c9417a30:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c820a6a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9033ea0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f85c9417a30:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c8cc1380; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f85f050b5f0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c92ffca0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9514e40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f85f050b5f0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c900d9e0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f85c902a070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c44bc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9033ea0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f85c902a070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c94071a0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7f85c7bd7db0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c4b750; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c5c5d0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7f85c7bd7db0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c829bcf0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f85f05db150:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c9256990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9048f40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f85f05db150:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c88e0630; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f85f1e5d690:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c139f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c5c5d0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f85f1e5d690:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c8caaba0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f85f052c700:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85f22943f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c94f77d0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f85f052c700:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c8c9c320; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7f85c901a480:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c92684f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c5c5d0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7f85c901a480:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c9411670; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f85c886bb00:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c94087e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c89180c0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f85c886bb00:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c9409c30; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7f85f05800c0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c9409980; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9405430; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7f85f05800c0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c7bdc110; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7f85c90063a0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c84cfa10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c5c5d0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7f85c90063a0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f85c8cae690; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7f85da5f7070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8ca6860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c94f0240; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7f85da5f7070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 13:55:05 +0000  Running /usr/bin/xattr '-crs' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app'
+2022-01-25 13:55:05 +0000  /usr/bin/xattr exited with 0
+2022-01-25 13:55:05 +0000  Processing step: IDEDistributionCodesignStep
+2022-01-25 13:55:05 +0000  Entitlements for <IDEDistributionItem: 0x7f85c8c13b80; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7f85dc66d540:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c941a790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8caac00; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7f85c8223a90:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:05 +0000  Entitlements for <IDEDistributionItem: 0x7f85c8c13b80; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7f85dc66d540:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c941a790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c82c6340; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7f85c8223a90:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c8c13b80; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7f85dc66d540:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c941a790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8286310; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7f85c8223a90:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~Jz3D0E
+2022-01-25 13:55:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~Jz3D0E' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/OpenSSL.framework'
+2022-01-25 13:55:05 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/OpenSSL.framework: replacing existing signature
+2022-01-25 13:55:06 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/OpenSSL.framework: signed bundle with Mach-O universal (arm64) [com.github.krzyzanowskim.OpenSSL]
+2022-01-25 13:55:06 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:06 +0000  Entitlements for <IDEDistributionItem: 0x7f85c94ebcf0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f85c9417a30:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c820a6a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c88dd6b0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f85c9417a30:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:06 +0000  Entitlements for <IDEDistributionItem: 0x7f85c94ebcf0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f85c9417a30:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c820a6a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c94f0310; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f85c9417a30:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:06 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c94ebcf0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f85c9417a30:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c820a6a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c64310; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f85c9417a30:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~0vHnLU
+2022-01-25 13:55:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~0vHnLU' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCore.dylib'
+2022-01-25 13:55:06 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2022-01-25 13:55:06 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2022-01-25 13:55:06 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:06 +0000  Entitlements for <IDEDistributionItem: 0x7f85c8cc1380; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f85f050b5f0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c92ffca0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c88dd9e0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f85f050b5f0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:06 +0000  Entitlements for <IDEDistributionItem: 0x7f85c8cc1380; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f85f050b5f0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c92ffca0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c81a9cd0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f85f050b5f0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:06 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c8cc1380; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f85f050b5f0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c92ffca0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9224110; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f85f050b5f0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~1gilih
+2022-01-25 13:55:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~1gilih' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'
+2022-01-25 13:55:06 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2022-01-25 13:55:06 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2022-01-25 13:55:06 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:06 +0000  Entitlements for <IDEDistributionItem: 0x7f85c900d9e0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f85c902a070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c44bc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c81a0bc0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f85c902a070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:06 +0000  Entitlements for <IDEDistributionItem: 0x7f85c900d9e0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f85c902a070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c44bc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c824a730; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f85c902a070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:06 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c900d9e0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f85c902a070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c44bc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85d8bc5200; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f85c902a070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~So7clA
+2022-01-25 13:55:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~So7clA' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'
+2022-01-25 13:55:06 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2022-01-25 13:55:06 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2022-01-25 13:55:06 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:06 +0000  Entitlements for <IDEDistributionItem: 0x7f85c94071a0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7f85c7bd7db0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c4b750; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c94f0310; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7f85c7bd7db0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:06 +0000  Entitlements for <IDEDistributionItem: 0x7f85c94071a0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7f85c7bd7db0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c4b750; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c888a760; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7f85c7bd7db0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:06 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c94071a0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7f85c7bd7db0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c4b750; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c92fdbf0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7f85c7bd7db0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~vqJdFU
+2022-01-25 13:55:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~vqJdFU' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib'
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2022-01-25 13:55:07 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:07 +0000  Entitlements for <IDEDistributionItem: 0x7f85c829bcf0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f85f05db150:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c9256990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c88f3d80; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f85f05db150:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:07 +0000  Entitlements for <IDEDistributionItem: 0x7f85c829bcf0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f85f05db150:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c9256990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c412e0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f85f05db150:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:07 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c829bcf0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f85f05db150:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c9256990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c94fd940; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f85f05db150:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~IEdwWP
+2022-01-25 13:55:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~IEdwWP' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDarwin.dylib'
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2022-01-25 13:55:07 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:07 +0000  Entitlements for <IDEDistributionItem: 0x7f85c88e0630; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f85f1e5d690:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c139f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c88dd5f0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f85f1e5d690:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:07 +0000  Entitlements for <IDEDistributionItem: 0x7f85c88e0630; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f85f1e5d690:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c139f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c92380a0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f85f1e5d690:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:07 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c88e0630; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f85f1e5d690:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8c139f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9022750; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f85f1e5d690:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~kbBxAj
+2022-01-25 13:55:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~kbBxAj' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDispatch.dylib'
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2022-01-25 13:55:07 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:07 +0000  Entitlements for <IDEDistributionItem: 0x7f85c8caaba0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f85f052c700:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85f22943f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c824a730; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f85f052c700:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:07 +0000  Entitlements for <IDEDistributionItem: 0x7f85c8caaba0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f85f052c700:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85f22943f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c88f3f20; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f85f052c700:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:07 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c8caaba0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f85f052c700:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85f22943f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c84f4060; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f85f052c700:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~rO8l55
+2022-01-25 13:55:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~rO8l55' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftFoundation.dylib'
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2022-01-25 13:55:07 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:07 +0000  Entitlements for <IDEDistributionItem: 0x7f85c8c9c320; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7f85c901a480:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c92684f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c88dd5f0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7f85c901a480:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:07 +0000  Entitlements for <IDEDistributionItem: 0x7f85c8c9c320; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7f85c901a480:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c92684f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9420e90; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7f85c901a480:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:07 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c8c9c320; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7f85c901a480:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c92684f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c92c3c80; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7f85c901a480:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~6R07jh
+2022-01-25 13:55:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~6R07jh' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftMetal.dylib'
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2022-01-25 13:55:07 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:07 +0000  Entitlements for <IDEDistributionItem: 0x7f85c9411670; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f85c886bb00:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c94087e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c82bbbe0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f85c886bb00:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:07 +0000  Entitlements for <IDEDistributionItem: 0x7f85c9411670; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f85c886bb00:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c94087e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8cd6b80; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f85c886bb00:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:07 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c9411670; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f85c886bb00:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c94087e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c2ae20; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f85c886bb00:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~EcmmI4
+2022-01-25 13:55:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~EcmmI4' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib'
+2022-01-25 13:55:07 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2022-01-25 13:55:08 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2022-01-25 13:55:08 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:08 +0000  Entitlements for <IDEDistributionItem: 0x7f85c9409c30; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7f85f05800c0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c9409980; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c88dd830; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7f85f05800c0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:08 +0000  Entitlements for <IDEDistributionItem: 0x7f85c9409c30; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7f85f05800c0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c9409980; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9238170; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7f85f05800c0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c9409c30; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7f85f05800c0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c9409980; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c94fd940; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7f85f05800c0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~jitHZu
+2022-01-25 13:55:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~jitHZu' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib'
+2022-01-25 13:55:08 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2022-01-25 13:55:08 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2022-01-25 13:55:08 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:08 +0000  Entitlements for <IDEDistributionItem: 0x7f85c7bdc110; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7f85c90063a0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c84cfa10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9223850; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7f85c90063a0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:08 +0000  Entitlements for <IDEDistributionItem: 0x7f85c7bdc110; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7f85c90063a0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c84cfa10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8cd09c0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7f85c90063a0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c7bdc110; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7f85c90063a0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c84cfa10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8cd2ec0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7f85c90063a0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~2ZCZae
+2022-01-25 13:55:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~2ZCZae' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftUIKit.dylib'
+2022-01-25 13:55:08 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2022-01-25 13:55:08 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2022-01-25 13:55:08 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:08 +0000  Entitlements for <IDEDistributionItem: 0x7f85c8cae690; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7f85da5f7070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8ca6860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85edda44c0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7f85da5f7070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 13:55:08 +0000  Entitlements for <IDEDistributionItem: 0x7f85c8cae690; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7f85da5f7070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8ca6860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c4a4c0; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7f85da5f7070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 13:55:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c8cae690; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7f85da5f7070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c8ca6860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c9514e40; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='(null)', teamID='9QYW2K7B2X', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7f85da5f7070:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~w5gib2
+2022-01-25 13:55:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~w5gib2' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftos.dylib'
+2022-01-25 13:55:08 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftos.dylib: replacing existing signature
+2022-01-25 13:55:08 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2022-01-25 13:55:08 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:08 +0000  Entitlements for <IDEDistributionItem: 0x7f85c82ecf20; bundleID='com.flowcharts.ai', path='<DVTFilePath:0x7f85c81a3c40:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c82ed450; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c2c460; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='{
+    "application-identifier" = "9QYW2K7B2X.com.flowcharts.ai";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9QYW2K7B2X;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9QYW2K7B2X.com.flowcharts.ai"
+    );
+}', teamID='9QYW2K7B2X', identifier='com.flowcharts.ai', executablePath='<DVTFilePath:0x7f85c7bdb8e0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/flowchart'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "9QYW2K7B2X.com.flowcharts.ai";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9QYW2K7B2X;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9QYW2K7B2X.com.flowcharts.ai"
+    );
+}
+2022-01-25 13:55:08 +0000  Entitlements for <IDEDistributionItem: 0x7f85c82ecf20; bundleID='com.flowcharts.ai', path='<DVTFilePath:0x7f85c81a3c40:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c82ed450; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c33f00; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='{
+    "application-identifier" = "9QYW2K7B2X.com.flowcharts.ai";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9QYW2K7B2X;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9QYW2K7B2X.com.flowcharts.ai"
+    );
+}', teamID='9QYW2K7B2X', identifier='com.flowcharts.ai', executablePath='<DVTFilePath:0x7f85c7bdb8e0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/flowchart'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "9QYW2K7B2X.com.flowcharts.ai";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9QYW2K7B2X;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9QYW2K7B2X.com.flowcharts.ai"
+    );
+}
+2022-01-25 13:55:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7f85c82ecf20; bundleID='com.flowcharts.ai', path='<DVTFilePath:0x7f85c81a3c40:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f85c82ed450; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f85c8c5f270; name='Apple Distribution: Cram Cards, LLC (9QYW2K7B2X)', hash='1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA', serialNumber='7FDEF7CEF33A348B70A30C2FD51CC608', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2022-01-03 06:54:12 +0000''>', entitlements='{
+    "application-identifier" = "9QYW2K7B2X.com.flowcharts.ai";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9QYW2K7B2X;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9QYW2K7B2X.com.flowcharts.ai"
+    );
+}', teamID='9QYW2K7B2X', identifier='com.flowcharts.ai', executablePath='<DVTFilePath:0x7f85c7bdb8e0:'/Users/mac/Library/Developer/Xcode/Archives/2022-01-25/flowchart 25-01-2022, 6.54 PM.xcarchive/Products/Applications/flowchart.app/flowchart'>', hardenedRuntime='0'>'> to: /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~SebAcq
+2022-01-25 13:55:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1AE0C649D6B0698BEFC248E716AE50DF07FCF4CA' '--entitlements' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/entitlements~~~SebAcq' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app'
+2022-01-25 13:55:08 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app: replacing existing signature
+2022-01-25 13:55:09 +0000  /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app: signed app bundle with Mach-O thin (arm64) [com.flowcharts.ai]
+2022-01-25 13:55:09 +0000  /usr/bin/codesign exited with 0
+2022-01-25 13:55:09 +0000  Processing step: IDEDistributionZipODRItemStep
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 13:55:09 +0000  Processing step: IDEDistributionCreateIPAStep
+2022-01-25 13:55:09 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root' '/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Packages/flowchart.ipa'
+2022-01-25 13:55:09 +0000  >>> Copying /var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root 
+2022-01-25 13:55:09 +0000  copying file ./BCSymbolMaps/711ECD69-30A2-3BCB-9DCF-C982AECC2F36.bcsymbolmap ... 
+2022-01-25 13:55:09 +0000  1814809 bytes for ./BCSymbolMaps/711ECD69-30A2-3BCB-9DCF-C982AECC2F36.bcsymbolmap
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/_CodeSignature/CodeResources ... 
+2022-01-25 13:55:09 +0000  14246 bytes for ./Payload/flowchart.app/_CodeSignature/CodeResources
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/Fontisto.ttf ... 
+2022-01-25 13:55:09 +0000  313528 bytes for ./Payload/flowchart.app/Fontisto.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/Octicons.ttf ... 
+2022-01-25 13:55:09 +0000  28364 bytes for ./Payload/flowchart.app/Octicons.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/Feather.ttf ... 
+2022-01-25 13:55:09 +0000  56024 bytes for ./Payload/flowchart.app/Feather.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/flowchart ... 
+2022-01-25 13:55:09 +0000  19903872 bytes for ./Payload/flowchart.app/flowchart
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/Entypo.ttf ... 
+2022-01-25 13:55:09 +0000  65584 bytes for ./Payload/flowchart.app/Entypo.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/FontAwesome5_Brands.ttf ... 
+2022-01-25 13:55:09 +0000  132728 bytes for ./Payload/flowchart.app/FontAwesome5_Brands.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/MaterialCommunityIcons.ttf ... 
+2022-01-25 13:55:09 +0000  899432 bytes for ./Payload/flowchart.app/MaterialCommunityIcons.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/AppIcon60x60@2x.png ... 
+15540 bytes for ./Payload/flowchart.app/AppIcon60x60@2x.png
+copying file ./Payload/flowchart.app/AntDesign.ttf ... 
+2022-01-25 13:55:09 +0000  70344 bytes for ./Payload/flowchart.app/AntDesign.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/Foundation.ttf ... 
+2022-01-25 13:55:09 +0000  56976 bytes for ./Payload/flowchart.app/Foundation.ttf
+copying file ./Payload/flowchart.app/Ionicons.ttf ... 
+2022-01-25 13:55:09 +0000  247192 bytes for ./Payload/flowchart.app/Ionicons.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/FontAwesome5_Solid.ttf ... 
+2022-01-25 13:55:09 +0000  202616 bytes for ./Payload/flowchart.app/FontAwesome5_Solid.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/FontAwesome5_Regular.ttf ... 
+2022-01-25 13:55:09 +0000  34092 bytes for ./Payload/flowchart.app/FontAwesome5_Regular.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2022-01-25 13:55:09 +0000  518 bytes for ./Payload/flowchart.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/AccessibilityResources.bundle/Info.plist ... 
+2022-01-25 13:55:09 +0000  795 bytes for ./Payload/flowchart.app/AccessibilityResources.bundle/Info.plist
+copying file ./Payload/flowchart.app/FontAwesome.ttf ... 
+2022-01-25 13:55:09 +0000  165548 bytes for ./Payload/flowchart.app/FontAwesome.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/Zocial.ttf ... 
+2022-01-25 13:55:09 +0000  25552 bytes for ./Payload/flowchart.app/Zocial.ttf
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/Assets.car ... 
+2022-01-25 13:55:09 +0000  800824 bytes for ./Payload/flowchart.app/Assets.car
+2022-01-25 13:55:09 +0000  copying file ./Payload/flowchart.app/Montserrat-SemiBold.ttf ... 
+2022-01-25 13:55:10 +0000  198720 bytes for ./Payload/flowchart.app/Montserrat-SemiBold.ttf
+2022-01-25 13:55:10 +0000  copying file ./Payload/flowchart.app/EvilIcons.ttf ... 
+2022-01-25 13:55:10 +0000  13456 bytes for ./Payload/flowchart.app/EvilIcons.ttf
+copying file ./Payload/flowchart.app/AppIcon76x76@2x~ipad.png ... 
+2022-01-25 13:55:10 +0000  24110 bytes for ./Payload/flowchart.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/flowchart.app/main.jsbundle ... 
+2022-01-25 13:55:10 +0000  1318217 bytes for ./Payload/flowchart.app/main.jsbundle
+2022-01-25 13:55:10 +0000  copying file ./Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib ... 
+2022-01-25 13:55:10 +0000  352368 bytes for ./Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib
+copying file ./Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib ... 
+2022-01-25 13:55:10 +0000  500080 bytes for ./Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib
+2022-01-25 13:55:10 +0000  copying file ./Payload/flowchart.app/Frameworks/libswiftCore.dylib ... 
+2022-01-25 13:55:12 +0000  69852784 bytes for ./Payload/flowchart.app/Frameworks/libswiftCore.dylib
+2022-01-25 13:55:12 +0000  copying file ./Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2022-01-25 13:55:12 +0000  1535328 bytes for ./Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib
+2022-01-25 13:55:12 +0000  copying file ./Payload/flowchart.app/Frameworks/OpenSSL.framework/_CodeSignature/CodeResources ... 
+2022-01-25 13:55:12 +0000  1798 bytes for ./Payload/flowchart.app/Frameworks/OpenSSL.framework/_CodeSignature/CodeResources
+copying file ./Payload/flowchart.app/Frameworks/OpenSSL.framework/OpenSSL ... 
+2022-01-25 13:55:12 +0000  8164032 bytes for ./Payload/flowchart.app/Frameworks/OpenSSL.framework/OpenSSL
+2022-01-25 13:55:12 +0000  copying file ./Payload/flowchart.app/Frameworks/OpenSSL.framework/Info.plist ... 
+714 bytes for ./Payload/flowchart.app/Frameworks/OpenSSL.framework/Info.plist
+copying file ./Payload/flowchart.app/Frameworks/libswiftUIKit.dylib ... 
+2022-01-25 13:55:12 +0000  1200960 bytes for ./Payload/flowchart.app/Frameworks/libswiftUIKit.dylib
+2022-01-25 13:55:12 +0000  copying file ./Payload/flowchart.app/Frameworks/libswiftMetal.dylib ... 
+2022-01-25 13:55:12 +0000  544896 bytes for ./Payload/flowchart.app/Frameworks/libswiftMetal.dylib
+2022-01-25 13:55:12 +0000  copying file ./Payload/flowchart.app/Frameworks/libswiftDispatch.dylib ... 
+2022-01-25 13:55:13 +0000  2993312 bytes for ./Payload/flowchart.app/Frameworks/libswiftDispatch.dylib
+2022-01-25 13:55:13 +0000  copying file ./Payload/flowchart.app/Frameworks/libswiftos.dylib ... 
+2022-01-25 13:55:13 +0000  644944 bytes for ./Payload/flowchart.app/Frameworks/libswiftos.dylib
+2022-01-25 13:55:13 +0000  copying file ./Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2022-01-25 13:55:13 +0000  335920 bytes for ./Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib
+2022-01-25 13:55:13 +0000  copying file ./Payload/flowchart.app/Frameworks/libswiftDarwin.dylib ... 
+2022-01-25 13:55:13 +0000  813968 bytes for ./Payload/flowchart.app/Frameworks/libswiftDarwin.dylib
+2022-01-25 13:55:13 +0000  copying file ./Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib ... 
+2022-01-25 13:55:13 +0000  355584 bytes for ./Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib
+2022-01-25 13:55:13 +0000  copying file ./Payload/flowchart.app/Frameworks/libswiftFoundation.dylib ... 
+2022-01-25 13:55:14 +0000  31957072 bytes for ./Payload/flowchart.app/Frameworks/libswiftFoundation.dylib
+2022-01-25 13:55:14 +0000  copying file ./Payload/flowchart.app/SimpleLineIcons.ttf ... 
+2022-01-25 13:55:14 +0000  54056 bytes for ./Payload/flowchart.app/SimpleLineIcons.ttf
+copying file ./Payload/flowchart.app/embedded.mobileprovision ... 
+2022-01-25 13:55:14 +0000  11875 bytes for ./Payload/flowchart.app/embedded.mobileprovision
+2022-01-25 13:55:14 +0000  copying file ./Payload/flowchart.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png ... 
+2022-01-25 13:55:14 +0000  761 bytes for ./Payload/flowchart.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png
+copying file ./Payload/flowchart.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png ... 
+2022-01-25 13:55:14 +0000  405 bytes for ./Payload/flowchart.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png
+copying file ./Payload/flowchart.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon.png ... 
+2022-01-25 13:55:14 +0000  290 bytes for ./Payload/flowchart.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon.png
+copying file ./Payload/flowchart.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png ... 
+2022-01-25 13:55:14 +0000  913 bytes for ./Payload/flowchart.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png
+2022-01-25 13:55:14 +0000  copying file ./Payload/flowchart.app/assets/src/assest/Responses.mp4 ... 
+2022-01-25 13:55:14 +0000  146889 bytes for ./Payload/flowchart.app/assets/src/assest/Responses.mp4
+2022-01-25 13:55:14 +0000  copying file ./Payload/flowchart.app/assets/src/assest/answers.mp4 ... 
+2022-01-25 13:55:14 +0000  381490 bytes for ./Payload/flowchart.app/assets/src/assest/answers.mp4
+2022-01-25 13:55:14 +0000  copying file ./Payload/flowchart.app/assets/src/assest/Boxes.mp4 ... 
+2022-01-25 13:55:14 +0000  427497 bytes for ./Payload/flowchart.app/assets/src/assest/Boxes.mp4
+2022-01-25 13:55:14 +0000  copying file ./Payload/flowchart.app/assets/src/assest/Paths.mp4 ... 
+2022-01-25 13:55:14 +0000  600488 bytes for ./Payload/flowchart.app/assets/src/assest/Paths.mp4
+2022-01-25 13:55:14 +0000  copying file ./Payload/flowchart.app/assets/src/assest/Survey.mp4 ... 
+2022-01-25 13:55:14 +0000  306356 bytes for ./Payload/flowchart.app/assets/src/assest/Survey.mp4
+2022-01-25 13:55:14 +0000  copying file ./Payload/flowchart.app/assets/src/assest/1.png ... 
+2022-01-25 13:55:14 +0000  288197 bytes for ./Payload/flowchart.app/assets/src/assest/1.png
+2022-01-25 13:55:14 +0000  copying file ./Payload/flowchart.app/assets/src/assest/Website.mp4 ... 
+2022-01-25 13:55:14 +0000  527094 bytes for ./Payload/flowchart.app/assets/src/assest/Website.mp4
+2022-01-25 13:55:14 +0000  copying file ./Payload/flowchart.app/Info.plist ... 
+2022-01-25 13:55:14 +0000  1793 bytes for ./Payload/flowchart.app/Info.plist
+copying file ./Payload/flowchart.app/PkgInfo ... 
+2022-01-25 13:55:14 +0000  8 bytes for ./Payload/flowchart.app/PkgInfo
+copying file ./Payload/flowchart.app/MaterialIcons.ttf ... 
+2022-01-25 13:55:14 +0000  230384 bytes for ./Payload/flowchart.app/MaterialIcons.ttf
+2022-01-25 13:55:14 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreImage.dylib ... 
+2022-01-25 13:55:14 +0000  466448 bytes for ./SwiftSupport/iphoneos/libswiftCoreImage.dylib
+2022-01-25 13:55:14 +0000  copying file ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib ... 
+2022-01-25 13:55:14 +0000  679568 bytes for ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib
+2022-01-25 13:55:14 +0000  copying file ./SwiftSupport/iphoneos/libswiftCore.dylib ... 
+2022-01-25 13:55:18 +0000  95497472 bytes for ./SwiftSupport/iphoneos/libswiftCore.dylib
+2022-01-25 13:55:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib ... 
+2022-01-25 13:55:18 +0000  2040928 bytes for ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib
+2022-01-25 13:55:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftUIKit.dylib ... 
+2022-01-25 13:55:18 +0000  1608688 bytes for ./SwiftSupport/iphoneos/libswiftUIKit.dylib
+2022-01-25 13:55:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftMetal.dylib ... 
+2022-01-25 13:55:18 +0000  724304 bytes for ./SwiftSupport/iphoneos/libswiftMetal.dylib
+2022-01-25 13:55:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftDispatch.dylib ... 
+2022-01-25 13:55:18 +0000  4056784 bytes for ./SwiftSupport/iphoneos/libswiftDispatch.dylib
+2022-01-25 13:55:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftos.dylib ... 
+2022-01-25 13:55:18 +0000  857072 bytes for ./SwiftSupport/iphoneos/libswiftos.dylib
+2022-01-25 13:55:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib ... 
+2022-01-25 13:55:18 +0000  450272 bytes for ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib
+2022-01-25 13:55:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftDarwin.dylib ... 
+2022-01-25 13:55:18 +0000  1091328 bytes for ./SwiftSupport/iphoneos/libswiftDarwin.dylib
+2022-01-25 13:55:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib ... 
+2022-01-25 13:55:18 +0000  486224 bytes for ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib
+2022-01-25 13:55:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftFoundation.dylib ... 
+2022-01-25 13:55:20 +0000  43094208 bytes for ./SwiftSupport/iphoneos/libswiftFoundation.dylib
+2022-01-25 13:55:20 +0000  /usr/bin/ditto exited with 0
+2022-01-25 13:55:20 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2022-01-25 13:55:20 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2022-01-25 13:55:20 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c8b823f0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftMetal.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c8b823f0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftMetal.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85e387b710:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftUIKit.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85e387b710:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftUIKit.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c66ecd40:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c66ecd40:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreFoundation.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c94a9720:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c94a9720:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftObjectiveC.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c8ccc6b0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c8ccc6b0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreImage.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c8ac5d00:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c8ac5d00:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftQuartzCore.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c8a71dc0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftos.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c8a71dc0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftos.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c8ad1a50:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDispatch.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c8ad1a50:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDispatch.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c8cccf40:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/OpenSSL.framework'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c82e87d0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCore.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c82e87d0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCore.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c66ecdc0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDarwin.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c66ecdc0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftDarwin.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c960d660:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftFoundation.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c960d660:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftFoundation.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c8cd39c0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>
+2022-01-25 13:55:20 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f85c8cd39c0:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app/Frameworks/libswiftCoreGraphics.dylib'>
+2022-01-25 13:55:20 +0000  IDEDistributionItem init <DVTFilePath:0x7f85c84f5e10:'/var/folders/tq/dxzmppmx38j0hlvx3400tnfm0000gn/T/XcodeDistPipeline.~~~xbMt8W/Root/Payload/flowchart.app'>
+2022-01-25 13:55:20 +0000  Processing step: IDEDistributionCreateManifestStep
+2022-01-25 13:55:20 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
