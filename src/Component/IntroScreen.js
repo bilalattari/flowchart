@@ -6,6 +6,7 @@ import {
   StyleSheet,
   Dimensions,
   TouchableOpacity,
+  ScrollView,
 } from 'react-native';
 import {RFValue} from 'react-native-responsive-fontsize';
 import VideoPlayer from 'react-native-video-player';
@@ -16,7 +17,37 @@ import {
   listenOrientationChange as lor,
   removeOrientationListener as rol,
 } from 'react-native-responsive-screen';
+import Orientation from 'react-native-orientation';
+
 const IntroScreen = props => {
+  const [orientationStyle, setOrientationStyle] = useState({
+    videoHeight: 400,
+    textFont: RFValue(24),
+    TextViewHeight: '32%',
+    videoPlayerHeight: '40%',
+    videoPlayerWidth: '95%',
+  });
+  let orientationDidChange = orientation => {
+    if (orientation === 'LANDSCAPE') {
+      setOrientationStyle({
+        videoHeight: 100,
+        textFont: RFValue(16),
+        TextViewHeight: '25%',
+        videoPlayerHeight: '30%',
+        videoPlayerWidth: '70%',
+      });
+    } else {
+      setOrientationStyle({
+        videoHeight: 400,
+        textFont: RFValue(24),
+        TextViewHeight: '32%',
+        videoPlayerHeight: '40%',
+        videoPlayerWidth: '95%',
+      });
+    }
+  };
+  Orientation.addOrientationListener(orientationDidChange);
+
   return (
     <ImageBackground
       source={require('../assest/1.png')}
@@ -24,22 +55,32 @@ const IntroScreen = props => {
       <View style={styles.titelVIew}>
         <Text style={styles.title}>{props.Step}</Text>
       </View>
-      <View style={styles.videoPlayerStyle}>
+      <View
+        style={[
+          styles.videoPlayerStyle,
+          {
+            height: orientationStyle.videoPlayerHeight,
+            width: orientationStyle.videoPlayerWidth,
+          },
+        ]}>
         <VideoPlayer
           video={props.videoUrl}
-          videoHeight={200}
+          videoHeight={orientationStyle.videoHeight}
           videoWidth={400}
           thumbnail={{uri: 'https://i.picsum.photos/id/866/1600/900.jpg'}}
           disableSeek={true}
           autoplay={false}
         />
       </View>
-      <View style={styles.textView}>
-        <Text style={styles.text}>{props.description}</Text>
+      <View
+        style={[styles.textView, {height: orientationStyle.TextViewHeight,marginTop:60}]}>
+        <Text style={[styles.text, {fontSize: orientationStyle.textFont}]}>
+          {props.description}
+        </Text>
       </View>
-      <TouchableOpacity onPress={props.onPress}>
+      {/* <TouchableOpacity onPress={props.onPress}>
         <Text style={styles.btnTextStyle}>{props.controlBtn}</Text>
-      </TouchableOpacity>
+      </TouchableOpacity> */}
     </ImageBackground>
   );
 };
@@ -61,7 +102,6 @@ const styles = StyleSheet.create({
   text: {
     color: 'white',
     fontWeight: 'bold',
-    fontSize: RFValue(24),
     textAlign: 'center',
     fontFamily: fonts.heading,
   },
@@ -74,13 +114,8 @@ const styles = StyleSheet.create({
   textView: {
     width: '85%',
     alignSelf: 'center',
-    height: '32%',
-    justifyContent: 'flex-end',
   },
   videoPlayerStyle: {
-    width: '95%',
-    height: '40%',
-    justifyContent: 'flex-end',
     alignSelf: 'center',
   },
   btnTextStyle: {

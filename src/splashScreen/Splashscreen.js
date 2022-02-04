@@ -37,12 +37,14 @@ class Splashscreen extends Component {
   }
 
   reset = async () => {
-    const activeToken = await AsyncStorage.getItem('accessToken');
+    const activeToken = await AsyncStorage.getItem('@storage_Key');
     if (activeToken) {
       this.props.navigation.push('WebApp');
+      console.log('web');
     }
     else {
       this.props.navigation.push('AppIntro');
+      console.log('intro');
     }
   }
 
